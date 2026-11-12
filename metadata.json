@@ -1,0 +1,6 @@
+{
+  "name": "ALSUTERS 2026",
+  "description": "Aplikasi GoPay-style hub untuk Informa Alam Sutera: 5 Quick Access Utama, Status Target Plus/Minus, SMT Coaching Tracker, Berita Ekonomi BPS/IHSG, dan Analisis Promo Kompetitor Furniture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
